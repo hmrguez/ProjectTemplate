@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpectreConsoleGame", "SpectreConsoleGame\SpectreConsoleGame.csproj", "{10462FCF-9D20-4CA5-89A8-DC29A7D1E848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic\GameLogic.csproj", "{D0CC3DD5-B471-49E2-8436-FAEB13D072FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10462FCF-9D20-4CA5-89A8-DC29A7D1E848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10462FCF-9D20-4CA5-89A8-DC29A7D1E848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10462FCF-9D20-4CA5-89A8-DC29A7D1E848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10462FCF-9D20-4CA5-89A8-DC29A7D1E848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CC3DD5-B471-49E2-8436-FAEB13D072FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CC3DD5-B471-49E2-8436-FAEB13D072FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CC3DD5-B471-49E2-8436-FAEB13D072FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CC3DD5-B471-49E2-8436-FAEB13D072FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
